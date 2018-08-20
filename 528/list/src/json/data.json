@@ -1,0 +1,103 @@
+{
+    "left": [{ "name": "A", "items": "热门推荐1" },
+        { "name": "B", "items": "热门推荐2" },
+        { "name": "C", "items": "热门推荐3" },
+        { "name": "D", "items": "热门推荐4" },
+        { "name": "E", "items": "热门推荐5" },
+        { "name": "F", "items": "热门推荐6" },
+        { "name": "G", "items": "热门推荐7" },
+        { "name": "H", "items": "热门推荐8" },
+        { "name": "I", "items": "热门推荐9" },
+        { "name": "J", "items": "热门推荐10" },
+        { "name": "K", "items": "热门推荐11" },
+        { "name": "L", "items": "热门推荐12" },
+        { "name": "M", "items": "热门推荐13" },
+        { "name": "N", "items": "热门推荐14" },
+        { "name": "O", "items": "热门推荐15" }
+    ],
+    "right": [{
+        "name": "A",
+        "tags": "电动车",
+        "datas": [{
+                "img": "../src/assets/1.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/1.png",
+                "title": "电动车"
+            },
+            {
+                "img": "../src/assets/1.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/1.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/1.png",
+                "title": "电动车"
+            }
+        ]
+    }, {
+        "name": "B",
+        "tags": "自行车",
+        "datas": [{
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            },
+            {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }
+        ]
+    }, {
+        "name": "C",
+        "tags": "摩托车",
+        "datas": [{
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            },
+            {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }
+        ]
+    }, {
+        "name": "D",
+        "tags": "汽车",
+        "datas": [{
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            },
+            {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }, {
+                "img": "../src/assets/2.png",
+                "title": "电动车"
+            }
+        ]
+    }]
+}

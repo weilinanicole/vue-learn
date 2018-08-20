@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  font-size: .14rem;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  width: 100%;
+  height: .45rem;
+  padding: 0 .1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #FAFBFD;
+}
+
+header li:nth-child(3) {
+  flex-basis: .14rem;
+}
+
+section {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+section .left {
+  flex-basis: 1rem;
+  border-right: 1px solid #ccc;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.items {
+  width: 100%;
+  height: .7rem;
+  line-height: .7rem;
+}
+
+.right {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.right a {
+  margin-top: .1rem;
+}
+
+.right a h2 {
+  height: .4rem;
+  margin-left: .1rem;
+  line-height: .4rem;
+}
+
+.right a .box {
+  margin-top: .1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.right a .box ul {
+  width: 33.3%;
+  height: auto;
+}
+
+.right a .box ul img {
+  width: 100%;
+  height: auto;
+}
+
+.right a .box ul li {
+  text-align: center;
+}
